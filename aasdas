@@ -1,0 +1,46 @@
+[33mcommit d17ee6388e60aba07da908c074442e7ec646c37a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nicolas Mayorga <nmayorgav@gmail.com>
+Date:   Mon Jan 13 00:15:09 2020 -0500
+
+    Commit al master de blogpost de la versión más reciente
+
+ blogpost.html   | 11 [32m+++++++++[m[31m--[m
+ css/estilos.css | 20 [32m++++++++++++++++++[m[31m--[m
+ 2 files changed, 27 insertions(+), 4 deletions(-)
+
+[33mcommit 8b52df23d15483ca61b464454613bcd70313977a[m
+Author: Nicolas Mayorga <nmayorgav@gmail.com>
+Date:   Sun Jan 12 23:13:08 2020 -0500
+
+    arranco mi proyecto real de html css
+
+ blogpost.html   | 14 [32m++++++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 20 insertions(+)
+
+[33mcommit 8f24bce4aa9bb36324d2b38dae63d6f67460fc70[m
+Author: Nicolas Mayorga <nmayorgav@gmail.com>
+Date:   Sun Jan 12 22:49:41 2020 -0500
+
+    agregamos un cambio a la posición de la cámara
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit d891765fc68fd865470e07cf10f43bcbab3beba5[m
+Author: Nicolas Mayorga <nmayorgav@gmail.com>
+Date:   Sun Jan 12 22:35:08 2020 -0500
+
+    Cambios al archivo de historia
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit edf89f82fcb2f4d90cd41fdd633312bea0d99410[m
+Author: Nicolasmayorga <56981722+Nicolasmayorga@users.noreply.github.com>
+Date:   Sun Jan 12 22:26:31 2020 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
